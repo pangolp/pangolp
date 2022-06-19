@@ -2,10 +2,9 @@
 <h3 align="center">Learner, self-taught and content creator.</h3>
 
 - 🧑🏼 My IRL name is Walter.
-- ⭐️ I'm 32 years old. (January, 4th).
+- ⭐️ I'm 33 years old. (January, 4th).
 - 👾 I love development and games.
 - 🔭 Currently working on [AzerothCore](https://github.com/azerothcore)
-- 🔭 Currently working on [WOW-CMS](https://github.com/wow-cms)
 - 🌱 I am currently learning several languages.
 - 📫 How to reach me **paganiwalter@gmail.com**
 - 🖥 [YouTube channel](https://www.youtube.com/c/walterpagani)
